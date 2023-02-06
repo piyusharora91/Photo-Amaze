@@ -25,8 +25,9 @@ const records = {
   Soldier: "./assets/Soldier.jpeg",
   Venom: "./assets/Venom.jpg",
   Green: "./assets/Green.jpeg",
-  "Aurora Tree": "./assets/Aurora Tree.jpeg",
-  "Big Star": "./assets/Big Image.jpeg",
+  "Alps Austria": "./assets/Alps Austria.jpeg",
+  "Zaykanthos Island": "./assets/Zaykanthos Island.jpeg",
+  "Lauterbrunnen Switzerland": "./assets/Lauterbrunnen Switzerland.jpeg",
 };
 
 export default records;
