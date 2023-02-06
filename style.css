@@ -78,17 +78,6 @@ img {
   .card-body {
     width: 100%;
   }
-
-  .card-title {
-    text-align: center;
-    font-size: 2rem;
-  }
-
-  .btn {
-    position: absolute;
-    left: 50%;
-    translate: -50% 0%;
-  }
 }
 
 @media screen and (max-width: 320px) {
