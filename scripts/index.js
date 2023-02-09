@@ -19,11 +19,4 @@ document.addEventListener("DOMContentLoaded", () => {
     const card = createCard(record, records[record]);
     rowContainer.appendChild(card);
   });
-
-  const imgElements = document.querySelectorAll(".card-img-top");
-  imgElements.forEach((imgElement) => {
-    imgElement.addEventListener("keydown", (e) => {
-      console.log(e);
-    });
-  });
 });
