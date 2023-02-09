@@ -28,6 +28,8 @@ const records = {
   "Alps Austria": "./assets/Alps Austria.jpeg",
   "Zaykanthos Island": "./assets/Zaykanthos Island.jpeg",
   "Lauterbrunnen Switzerland": "./assets/Lauterbrunnen Switzerland.jpeg",
+  "This FIRE within ME": "./assets/This FIRE within ME.jpg",
+  Traffic: "./assets/Traffic.jpg",
 };
 
 export default records;
