@@ -30,6 +30,9 @@ const records = {
   "Lauterbrunnen Switzerland": "./assets/Lauterbrunnen Switzerland.jpeg",
   "This FIRE within ME": "./assets/This FIRE within ME.jpg",
   Traffic: "./assets/Traffic.jpg",
+  Headphones: "./assets/Headphones.jpeg",
+  Lava: "./assets/Lava.jpeg",
+  Skyscrapers: "./assets/Skyscrapers.jpeg",
 };
 
 export default records;
